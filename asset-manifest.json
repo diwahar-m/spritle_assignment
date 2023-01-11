@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spritle_assignment/static/css/main.8033ae9e.css",
+    "main.js": "/spritle_assignment/static/js/main.8a96b6cd.js",
+    "static/js/787.cda612ba.chunk.js": "/spritle_assignment/static/js/787.cda612ba.chunk.js",
+    "index.html": "/spritle_assignment/index.html",
+    "main.8033ae9e.css.map": "/spritle_assignment/static/css/main.8033ae9e.css.map",
+    "main.8a96b6cd.js.map": "/spritle_assignment/static/js/main.8a96b6cd.js.map",
+    "787.cda612ba.chunk.js.map": "/spritle_assignment/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8033ae9e.css",
+    "static/js/main.8a96b6cd.js"
+  ]
+}
