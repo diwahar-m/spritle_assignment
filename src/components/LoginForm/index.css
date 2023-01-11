@@ -1,0 +1,53 @@
+.container-login{
+    height:100vh;
+    background-image:radial-gradient(#FF869E,#FFE7BF);
+    background-size:cover;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    
+}
+
+.con1-login{
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between;
+   
+    border-radius:10px;
+    
+
+
+} 
+button{
+    margin:15px 0 0 15px;
+    border-width:0px;
+    height:30px;
+    width:90px;
+    background-color: #37E2D5; 
+    color:#ffffff; 
+    font-weight:bold; 
+    border-radius:10px;
+}
+button:hover{
+    background-color:#39B5E0; 
+    color:red;
+}
+
+.con2-login{
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between;
+    
+   
+}
+hr{
+    border-width:2px;
+    width:75%;
+}
+h1{
+    font-weight:bold;
+}
+.error{
+    color:red;
+}

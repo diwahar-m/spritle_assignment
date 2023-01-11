@@ -1,0 +1,84 @@
+.home-con{
+    min-height:100vh;
+    background-size:cover; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between;
+    align-items:center;
+    background-color: #FFF6C3;
+    padding:10px;
+    
+}
+p{
+    color:red;
+}
+.main-con{
+    
+    border-radius: 10px; 
+    padding:14px; 
+    display:flex; 
+    flex-direction: row;
+}
+.top{
+    width:100vw; 
+    display:flex;
+    justify-content: center; 
+    align-items:center;
+    
+}
+
+p{
+    color:red;
+}
+
+.but1{
+    position:absolute;
+    margin-left:1000px;
+    height:50px;
+    width:90px;
+    border-width:0px;
+    background-color: #37E2D5; 
+    color:#ffffff; 
+    font-weight:bold; 
+    border-radius:10px;
+}
+.but1:hover{
+    background-color:#D4D925; 
+    color:red;
+}
+
+
+.activity2{
+ display:flex; 
+ flex-direction: column;
+ justify-content:center; 
+ margin-right:40px;
+ width:400px;
+ padding:4px;
+ align-items:center;
+ background-color:#ffffff;
+}
+h2{
+    text-decoration: underline;
+    align-self:center;
+}
+select{
+    width:40px; 
+    font-weight:bold; 
+    background-color:#86E5FF;
+}
+
+.activity4{
+    display:flex; 
+    flex-direction: column;
+    width:400px;
+    padding:0 5px 50px 10px;
+    
+    background-color:#ffffff;
+
+}
+.but6{
+    padding:6px; 
+    height:60px;
+    width:80px;
+}
